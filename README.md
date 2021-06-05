@@ -14,7 +14,11 @@ Uspešno su implementiran i model slučajnih šuma i konvolutivna neuronska mre�
 Korišćena literatura: 
 
 http://ml.matf.bg.ac.rs/readings/ml.pdf
+
 https://numpy.org/
+
 https://scikit-learn.org/stable/
+
 https://matplotlib.org/
+
 https://www.tensorflow.org/
