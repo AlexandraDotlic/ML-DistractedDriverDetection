@@ -20,3 +20,7 @@ https://scikit-learn.org/stable/
 https://matplotlib.org/
 
 https://www.tensorflow.org/
+
+Neophodni paketi:
+
+pandas, numpy, matplotlib, scikit-learn, os, openCv, seaborn, tensorflow
