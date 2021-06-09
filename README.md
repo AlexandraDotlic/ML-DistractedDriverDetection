@@ -24,3 +24,5 @@ https://www.tensorflow.org/
 Neophodni paketi:
 
 pandas, numpy, matplotlib, scikit-learn, os, openCv, seaborn, tensorflow
+
+Priložen je fajl base.yml - export anaconda okruženja
